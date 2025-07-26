@@ -17,21 +17,21 @@
               }
             }
           },
-          "summary": "Mundo Pop Internacional é a estação perfeita para quem ama música de qualidade de todos os cantos do mundo.",
+          "summary": "Ta na cultura ta bom demais",
           "examplePhrases": [
-            "Alexa abrir, rádio mundo pop",
-            "Alexa, tocar rádio mundo pop",
-            "Alexa, iniciar rádio mundo pop"
+            "Alexa abrir, rádio cultura bom sucesso",
+            "Alexa, tocar rádio cultura bom sucesso",
+            "Alexa, iniciar rádio cultura bom sucesso"
           ],
           "keywords": [
             "espaço",
             "fatos",
             "trivia"
           ],
-          "name": "Rádio Mundo Pop | FlashBack",
-          "description": "A Rádio Mundo Pop Internacional é a estação perfeita para quem ama música de qualidade de todos os cantos do mundo. Com uma seleção impecável dos maiores hits internacionais, oferecemos uma programação 24 horas com o melhor do pop, rock, eletrônica, R\u0026B e muito mais. Seja para acompanhar o seu dia a dia ou para animar suas noites, nossa rádio traz sempre as últimas tendências e os clássicos que nunca saem de moda. Conecte-se, aumente o som e curta uma experiência musical sem fronteiras!",
+          "name": "Cultura FM 104,9 - Bom Sucesso",
+          "description": "Rádio Cultura FM 104,9 uma rádio comunitária pertencente a fundação Francisco Ferreira de Lima operando na cidade de Bom sucesso no estado da Paraíba!",
           "smallIconUri": "file://assets/images/pt-BR_smallIconUri.png",
-          "updatesDescription": "Mundo Pop Internacional",
+          "updatesDescription": "Rádio Cultura FM 104,9",
           "largeIconUri": "file://assets/images/pt-BR_largeIconUri.png"
         }
       },
